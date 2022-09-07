@@ -9,10 +9,10 @@
  
  <div id="badges">
   <a href="https://www.facebook.com/saljok.ali.332">
-    <img src="https://i.imgur.com/RFBzE4B.png" alt="abd alrhman alshafei"/>
+    <img src="https://i.imgur.com/RFBzE4B.png" width="30px" height='30px' alt="abd alrhman alshafei"/>
   </a>
   <a href="https://wa.me/+972597151043">
-    <img src="https://i.imgur.com/6Od4ifD.png" alt="abd alrhman alshafei"/>
+    <img src="https://i.imgur.com/6Od4ifD.png" width="30px" height='30px' alt="abd alrhman alshafei"/>
   </a>
    <img  align="right" src="https://komarev.com/ghpvc/?username=titoashelias&label=Profile%20views&color=0e75b6&style=flat" alt="titoashelias" />
 
